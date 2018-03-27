@@ -4,7 +4,7 @@ machine:
   # Version of ruby to use
   ruby:
     version:
-      2.4.3p205
+      2.4.0
   
 ## Customize checkout
 # checkout:
